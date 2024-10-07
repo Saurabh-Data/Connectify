@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Connectify</string>
+    <string name="default_web_client_id">981030200803-mudfhv8cdas5qpgtc5mb5dps66t1tml6.apps.googleusercontent.com</string>
+    <string name="please_login_to_continue">Please login to continue</string>
+    <!-- Other string resources -->
+</resources>

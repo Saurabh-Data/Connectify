@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981030200803",
+    "project_id": "connectify-video-call",
+    "storage_bucket": "connectify-video-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981030200803:android:6903671883be430682acd6",
+        "android_client_info": {
+          "package_name": "com.connectify.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXsxqwCw079RDiZ9tNCoE-LAsjtVaIUOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
